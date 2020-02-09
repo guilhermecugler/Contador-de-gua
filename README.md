@@ -1,5 +1,5 @@
 # Contador de Água
-App para verificar se a quantidade de água tomada foi satisfeita
+App para verificar se a quantidade de água tomada foi satisfeita, cada vez que se aperta em beber, 200ml é adicionado.
 
 
 
